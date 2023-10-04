@@ -1,1 +1,1 @@
-# next-s_skills
+# practice with TypeScript React 
